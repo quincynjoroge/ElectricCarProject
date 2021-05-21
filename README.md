@@ -11,7 +11,9 @@ Question for Research:
 Over the month of April 2018, determine the most popular time of day for picking up a shared electric car (Blue car) in Paris.
 ## Setup/Installation Requirements
 Google Colab Note book/Jupyter Note book/Any IDE
+
 Data analysis techniques
+
 Data analysis tools(Python and it's libraries ie. Pandas and Numpy)
 
 ## Support and contact details
